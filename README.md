@@ -28,4 +28,4 @@
 ### 5.3 락, 미친듯이 흔들어.
 ### 5.4 가사가 중요.
 
-![Alt text](C:\Users\ASUS\Desktop\mindmap.jpg "My mindmap")
+![Alt text](C:\Users\ASUS\Desktop\mindmap.jpg)
